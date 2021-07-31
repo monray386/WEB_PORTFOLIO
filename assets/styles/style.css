@@ -101,11 +101,11 @@ a {
 	align-items: flex-start;
 	justify-content: center;
 	flex-direction: column;
-	padding: 50px;
+	padding: 30px;
 	border-radius: 10px;
 	background-image: url(https://images.pexels.com/photos/1037995/pexels-photo-1037995.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
 	background-size: cover;
-	margin: 10pm 5%;
+	margin: 10px 5%;
 }
 /*Services Section*/
 
