@@ -199,7 +199,7 @@ p {
 
 /* Hero Section */
 #hero {
-	background-image: url(./assets/images/hero-bg.png);
+	background-image: url("https://images.pexels.com/photos/3608056/pexels-photo-3608056.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
 	background-size: cover;
 	background-position: top center;
 	position: relative;
